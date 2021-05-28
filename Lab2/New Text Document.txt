@@ -1,0 +1,10 @@
+echo off
+rem create new catalog by name Adelson
+md Adelson
+rem go to into new catalog
+cd Adelson
+md Adelson
+md Luigi
+md Christian
+rem this need for pause of programm
+pause
